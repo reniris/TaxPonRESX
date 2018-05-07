@@ -127,7 +127,7 @@
     <value>０を超える数値を入力してください</value>
   </data>
   <data name="Money" xml:space="preserve">
-    <value>金額</value>
+    <value>値段</value>
   </data>
   <data name="Result" xml:space="preserve">
     <value>結果</value>
