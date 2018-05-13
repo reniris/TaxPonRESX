@@ -153,4 +153,7 @@
   <data name="TitleTax" xml:space="preserve">
     <value>销售税</value>
   </data>
+  <data name="MsgInit" xml:space="preserve">
+    <value>初始化</value>
+  </data>
 </root>
