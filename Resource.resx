@@ -156,4 +156,10 @@
   <data name="MsgInit" xml:space="preserve">
     <value>初期化しました</value>
   </data>
+  <data name="SettingCulture" xml:space="preserve">
+    <value>言語</value>
+  </data>
+  <data name="ErrFontSize" xml:space="preserve">
+    <value>１以上の整数を入力してください</value>
+  </data>
 </root>

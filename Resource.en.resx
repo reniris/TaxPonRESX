@@ -156,4 +156,10 @@
   <data name="MsgInit" xml:space="preserve">
     <value>Initializing</value>
   </data>
+  <data name="SettingCulture" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="ErrFontSize" xml:space="preserve">
+    <value>Please enter an integer greater than 1</value>
+  </data>
 </root>
