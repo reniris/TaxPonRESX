@@ -162,4 +162,16 @@
   <data name="ErrFontSize" xml:space="preserve">
     <value>请输入大于1的整数</value>
   </data>
+  <data name="DiscountRate" xml:space="preserve">
+    <value>贴现率</value>
+  </data>
+  <data name="DiscountResult" xml:space="preserve">
+    <value>折扣后</value>
+  </data>
+  <data name="ErrDiscount" xml:space="preserve">
+    <value>0超级请输入小于100的数字。</value>
+  </data>
+  <data name="TitleDiscount" xml:space="preserve">
+    <value>折扣</value>
+  </data>
 </root>

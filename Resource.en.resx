@@ -162,4 +162,16 @@
   <data name="ErrFontSize" xml:space="preserve">
     <value>Please enter an integer greater than 1</value>
   </data>
+  <data name="DiscountRate" xml:space="preserve">
+    <value>Discount rate</value>
+  </data>
+  <data name="DiscountResult" xml:space="preserve">
+    <value>After discount</value>
+  </data>
+  <data name="ErrDiscount" xml:space="preserve">
+    <value>0 Super please enter a number less than 100.</value>
+  </data>
+  <data name="TitleDiscount" xml:space="preserve">
+    <value>Discount</value>
+  </data>
 </root>

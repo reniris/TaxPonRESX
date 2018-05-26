@@ -162,4 +162,16 @@
   <data name="ErrFontSize" xml:space="preserve">
     <value>１以上の整数を入力してください</value>
   </data>
+  <data name="DiscountRate" xml:space="preserve">
+    <value>割引率</value>
+  </data>
+  <data name="DiscountResult" xml:space="preserve">
+    <value>割引後</value>
+  </data>
+  <data name="ErrDiscount" xml:space="preserve">
+    <value>０超１００未満の数値を入力してください</value>
+  </data>
+  <data name="TitleDiscount" xml:space="preserve">
+    <value>割引</value>
+  </data>
 </root>
