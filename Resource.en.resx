@@ -174,4 +174,16 @@
   <data name="TitleDiscount" xml:space="preserve">
     <value>Discount</value>
   </data>
+  <data name="PerGramWeight" xml:space="preserve">
+    <value>Weight</value>
+  </data>
+  <data name="TitlePerGram" xml:space="preserve">
+    <value>Price/g</value>
+  </data>
+  <data name="PerGramResult" xml:space="preserve">
+    <value>Price/g</value>
+  </data>
+  <data name="ErrWeight" xml:space="preserve">
+    <value>Please enter a number greater than 0</value>
+  </data>
 </root>

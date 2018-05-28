@@ -174,4 +174,16 @@
   <data name="TitleDiscount" xml:space="preserve">
     <value>割引</value>
   </data>
+  <data name="TitlePerGram" xml:space="preserve">
+    <value>値段/g</value>
+  </data>
+  <data name="PerGramWeight" xml:space="preserve">
+    <value>重量</value>
+  </data>
+  <data name="PerGramResult" xml:space="preserve">
+    <value>値段/g</value>
+  </data>
+  <data name="ErrWeight" xml:space="preserve">
+    <value>０を超える数値を入力してください</value>
+  </data>
 </root>
