@@ -186,4 +186,10 @@
   <data name="ErrWeight" xml:space="preserve">
     <value>请输入大于0的数字</value>
   </data>
+  <data name="CommandLicense" xml:space="preserve">
+    <value>授权</value>
+  </data>
+  <data name="CommandBack" xml:space="preserve">
+    <value>上一步</value>
+  </data>
 </root>

@@ -186,4 +186,10 @@
   <data name="ErrWeight" xml:space="preserve">
     <value>０を超える数値を入力してください</value>
   </data>
+  <data name="CommandLicense" xml:space="preserve">
+    <value>ライセンス</value>
+  </data>
+  <data name="CommandBack" xml:space="preserve">
+    <value>戻る</value>
+  </data>
 </root>

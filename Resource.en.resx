@@ -186,4 +186,10 @@
   <data name="ErrWeight" xml:space="preserve">
     <value>Please enter a number greater than 0</value>
   </data>
+  <data name="CommandLicense" xml:space="preserve">
+    <value>License</value>
+  </data>
+  <data name="CommandBack" xml:space="preserve">
+    <value>Back</value>
+  </data>
 </root>
